@@ -1,1 +1,1 @@
-require __DIR__ . '/../public/welcome.blade.php';
+require __DIR__ . '/../public/index.php';
