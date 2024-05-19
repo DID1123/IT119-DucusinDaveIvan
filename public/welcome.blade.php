@@ -74,7 +74,7 @@
         </div>
         <section class="projects">
             <div class="project">
-                <img src="img/project1.jpg" alt="Project 1">
+                <img src="https://imgur.com/OImNlDC" alt="Project 1">
                 <p>
 Our Project Management System is a comprehensive, user-friendly platform designed to streamline project planning, execution, and monitoring for teams of all sizes. It features robust task management, time tracking, collaboration tools, interactive Gantt charts, and resource management. Users can manage budgets, track costs, generate detailed reports and analytics, and maintain documents in a centralized repository. The system supports customizable dashboards and integrates seamlessly with tools like Slack, Trello, Jira, and Google Workspace. Built with React.js for a dynamic front-end, and Node.js with Express.js for a scalable back-end, it utilizes MongoDB for data storage, JWT for secure authentication, WebSocket and Socket.io for real-time communication, AWS S3 for cloud storage, and CI/CD pipelines with Jenkins and Docker for automated testing and deployment. This solution simplifies project management complexities, empowering teams to achieve their goals efficiently.</p>
             </div>
